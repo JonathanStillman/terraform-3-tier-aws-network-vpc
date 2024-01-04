@@ -34,10 +34,6 @@ Before using this Terraform configuration, ensure you have the following prerequ
 |   |       |-- main.tf
 |   |       |-- outputs.tf
 |   |       `-- variables.tf
-|   |-- main.tf
-|   |-- outputs.tf
-|   |-- terraform.tfvars
-|   `-- variables.tf
 |-- jupiter-website-ecs
 |   |-- backend.tf
 |   |-- main.tf
